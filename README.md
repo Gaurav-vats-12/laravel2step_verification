@@ -1,17 +1,7 @@
-![Laravel 2 Step Verification](https://github-project-images.s3-us-west-2.amazonaws.com/logos/laravel2step-logo.png)
 
 # Laravel 2 Step Verification
 Laravel 2-Step Verification is a package to add 2-Step user authentication to any Laravel project easily. It is configurable and customizable. It uses notifications to send the user an email with a 4-digit verification code. Can be used in out the box with Laravel's authentication scaffolding or integrated into other projects.
 
-[![Travis-CI Build](https://travis-ci.org/jeremykenedy/laravel2step.svg?branch=master)](https://travis-ci.org/jeremykenedy/laravel2step)
-[![Latest Stable Version](https://poser.pugx.org/jeremykenedy/laravel2step/v/stable)](https://packagist.org/packages/jeremykenedy/laravel2step)
-[![Total Downloads](https://poser.pugx.org/jeremykenedy/laravel2step/downloads)](https://packagist.org/packages/jeremykenedy/laravel2step)
-[![StyleCI](https://github.styleci.io/repos/113799854/shield?branch=master)](https://github.styleci.io/repos/113799854)
-[![Build Status](https://scrutinizer-ci.com/g/jeremykenedy/laravel2step/badges/build.png?b=master)](https://scrutinizer-ci.com/g/jeremykenedy/laravel2step/build-status/master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jeremykenedy/laravel2step/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/jeremykenedy/laravel2step/?branch=master)
-[![Code Intelligence Status](https://scrutinizer-ci.com/g/jeremykenedy/laravel2step/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-[![MadeWithLaravel.com shield](https://madewithlaravel.com/storage/repo-shields/1372-shield.svg)](https://madewithlaravel.com/p/laravel-2-step-verification/shield-link)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Table of contents:
 - [Features](#features)
